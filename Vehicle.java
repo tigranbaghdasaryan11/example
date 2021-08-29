@@ -2,10 +2,9 @@
 public class Vehicle {
 
 
-    //private boolean isCar;
+    private boolean isCar;
     private int wheelCount;
     private int doorCount;
-    private int esimInch;
 
 
 
