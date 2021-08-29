@@ -1,7 +1,7 @@
 
 public class Vehicle {
 
-
+    private int u;
     private boolean isCar;
     private int wheelCount;
     private int doorCount;
