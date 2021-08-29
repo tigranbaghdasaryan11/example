@@ -5,7 +5,7 @@ public class Vehicle {
     private boolean isCar;
     private int wheelCount;
     private int doorCount;
-    private boolean isVerify;
+
 
 
     public Vehicle(boolean isCar, int wheelCount, int doorCount, String brand, String type) {
